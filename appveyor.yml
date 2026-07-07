@@ -25,6 +25,8 @@ install:
   - >-
     choco install chocolatey-dotnetfx.extension --no-progress -y
   - >-
+    choco install netfx-4.8.1-devpack --no-progress -y
+  - >-
     git submodule update --init --recursive
 before_build:
   - >-
