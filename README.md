@@ -39,10 +39,8 @@ Archive
  -->
 
 <div align="center">
-    
-<span style="font-size: 70px;">📦</span>
 
-  <h1>RARLab's `rar.exe` .NET Wrapper Library</h1>
+  <h1>📦 RARLab's `rar.exe` .NET Wrapper Library</h1>
 
 ### A full-featured .NET wrapper for RARLab's official `rar.exe` command-line tool. This library empowers .NET developers to seamlessly access and control almost all the functionality provided by `rar.exe` — such as compressing, extracting, listing, testing, creating recovery volumes and managing RAR archives — from within their applications.
 
