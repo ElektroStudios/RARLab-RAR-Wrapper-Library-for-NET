@@ -75,6 +75,8 @@ Archive
     <a href="https://en.wikipedia.org/wiki/Spanish_Empire"><img src="https://img.shields.io/badge/Made_in-Spain_%F0%9F%87%AA%F0%9F%87%B8-AA151B?style=flat" alt="Made in Spain"></a>
 </p>
 
+------------------
+
 ## 👋 Introduction
 
 RARLab provides a powerful command-line tool, `rar.exe`, with deep support for creating and extracting RAR archives. However, using it directly from .NET requires manually spawning processes, constructing CLI arguments, and parsing the textual output — a repetitive and error-prone task.
